@@ -37,6 +37,8 @@ public class Carrello {
 		this.utente = utente;
 		this.prodotti = prodotti;
 	}
+	
+	//Donatella ciao!
 
 	public Carrello(Utente utente, List<Prodotto> prodotti) {
 		super();
