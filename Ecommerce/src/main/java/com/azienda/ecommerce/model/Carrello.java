@@ -12,8 +12,6 @@ import javax.persistence.ManyToMany;
 import javax.persistence.OneToOne;
 import javax.persistence.JoinColumn;
 
-
-
 @Entity
 public class Carrello {
 	@Id
